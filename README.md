@@ -44,3 +44,18 @@ The screens presented are examples of high-fidelity wireframes.
 * Precise Layout and Spacing: The arrangement of elements across all screens is precise and consistent, with carefully considered alignment and spacing that closely mimics a final user interface. The overall presentation of the screens feels very close to a developed product rather than a rough sketch.
 
 These characteristics collectively demonstrate that the design depicted in source has a high degree of fidelity, closely resembling the final user interface in terms of visual appearance, content, and interactive elements.
+
+## Popular wireframing tools
+
+In most cases, as a frontend developer, you’ll receive detailed mockup designs from the UI/UX team. These designs serve as blueprints, guiding your implementation and ensuring consistency in the final product. Before these high-fidelity mockups are created, wireframing plays a key role in shaping the overall layout and user flow.
+
+Figma is one of the most popular and powerful tools for wireframing and UI design. It’s widely used by professionals due to its versatility and collaborative features.
+
+### Why Figma?
+* Browser-based & cross-platform – No need to install heavy software.
+* Real-time collaboration – Multiple users can work on the same design simultaneously.
+* Intuitive interface – Easy to learn and use, even for beginners.
+* Reusable components – Create and maintain consistent design elements with ease.
+* Design-to-code handoff – Developers can inspect elements, view CSS properties, and export assets directly.
+
+Whether you’re sketching low-fidelity wireframes or refining high-fidelity mockups, Figma streamlines the entire process and bridges the gap between design and development.
