@@ -59,3 +59,22 @@ Figma is one of the most popular and powerful tools for wireframing and UI desig
 * Design-to-code handoff – Developers can inspect elements, view CSS properties, and export assets directly.
 
 Whether you’re sketching low-fidelity wireframes or refining high-fidelity mockups, Figma streamlines the entire process and bridges the gap between design and development.
+
+## Benefits of Wireframing in Software Development
+
+Wireframing is an essential step in the software development process, offering multiple advantages that go beyond just visual planning. It acts as a bridge between ideas and implementation, helping teams align on structure, functionality, and user flow early on—before diving into code or detailed design.
+
+### 1. Clarifies the Product Vision
+Wireframes give developers, designers, and stakeholders a clear visual representation of what the product will look like. For example, as a frontend developer, receiving a complete mockup from the UI/UX team allows you to understand the layout, components, and required assets even before development starts.
+
+### 2. Enhances Team Communication
+With tools like Figma, teams can collaborate in real time, review design decisions, leave comments, and iterate quickly. This reduces misunderstandings and ensures everyone is on the same page—from designers to developers to project managers.
+
+### 3. Saves Time and Reduces Rework
+By identifying layout and navigation issues early in low-fidelity wireframes, teams can address problems before investing time in high-fidelity design or development. For instance, adjusting a layout in a sketch is far quicker than reworking live code.
+
+### 4. Improves Developer Efficiency
+Wireframes provide a blueprint for frontend developers, outlining the structure of the UI. This helps developers plan components, structure their code, and ensure consistency with design expectations.
+
+By guiding the design process and enhancing communication, wireframes help teams build better products—faster and with fewer surprises
+
